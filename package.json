@@ -1,12 +1,10 @@
 {
-  "homepage": "https://rxhit24.github.io/weather2",
+{
   "name": "weather",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "predeploy": "npm run build",
-    "deploy" :"gh-pages -d dist",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },

@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/weather-vue-2/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/weather3/" : "/",
   };
   
